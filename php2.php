@@ -1,2 +1,2 @@
 <?php 
-echo 'no.2';
+echo 'php3';
