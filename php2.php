@@ -1,3 +1,3 @@
 <?php 
 echo 'php3';
-echo '';
+echo 'oho test';
